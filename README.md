@@ -90,3 +90,10 @@ Performed complete ML workflow in Jupyter Notebook.
 
 - Power BI Desktop
 
+## 👩‍💻 Author
+**Madhu Singroha**
+
+🔗 [Email ID](madhu.singroha@gmail.com)
+
+🔗 [LinkedIn](https://linkedin.com/in/madhu-singroha-67b50a369)
+
